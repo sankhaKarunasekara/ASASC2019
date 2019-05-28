@@ -3,7 +3,7 @@ materials related to First All-Sri Lanka Asteroid Search Campaign
 
 ## Training Materials
 
-you can use ISAC [Traning Materials](http://iasc.cosmosearch.org/Astrometrica.html) to get start with the campaingn, if you trouble following them, you can use this image set and configuration file.
+you can use ISAC [Traning Materials](http://iasc.cosmosearch.org/Astrometrica.html) to get started with the campaign, if you trouble following them, you can use this image set and configuration file.
 
 ## useful links
 
@@ -13,5 +13,3 @@ you can use ISAC [Traning Materials](http://iasc.cosmosearch.org/Astrometrica.ht
 * Minor planet center report spec: https://minorplanetcenter.net//iau/info/OpticalObs.html
 * Astrometrica FAQ: http://wise.ssl.berkeley.edu/documents/IASC%20FAQ.pdf
 * Minor Planet DB Search: https://minorplanetcenter.net/db_search
-
-
