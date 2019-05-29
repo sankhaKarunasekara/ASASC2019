@@ -13,3 +13,4 @@ you can use ISAC [Traning Materials](http://iasc.cosmosearch.org/Astrometrica.ht
 * Minor planet center report spec: https://minorplanetcenter.net//iau/info/OpticalObs.html
 * Astrometrica FAQ: http://wise.ssl.berkeley.edu/documents/IASC%20FAQ.pdf
 * Minor Planet DB Search: https://minorplanetcenter.net/db_search
+* MPC report generation utility: http://iasc.cosmosearch.org/MPCReportQuiz.html
